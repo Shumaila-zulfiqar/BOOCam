@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:local="clr-namespace:CarouselView.FormsPlugin.Abstractions;assembly=CarouselView.FormsPlugin.Abstractions"
+             mc:Ignorable="d"
+               x:Class="bookbee.Views.Home"
+               xmlns:controls="clr-namespace:bookbee.Controls"
+             Title="BOOCam"
+             
+             xmlns:viewModels="clr-namespace:bookbee.ViewModels"
+             xmlns:converters="clr-namespace:bookbee.Converters">
+
+    
+    <ContentPage.BindingContext>
+
+        <viewModels:ComputerVisionViewModel/>
+
+    </ContentPage.BindingContext>
+
+
+    <ContentPage.Resources>
+
+        <ResourceDictionary>
+
+            <converters:ListOfLinesToOneStringConverter x:Key="ListOfLinesToOneStringConverter"/>
+
+        </ResourceDictionary>
+
+    </ContentPage.Resources>
+
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+         <!--   <OnPlatform.iOS >0,20,0,0</OnPlatform.iOS>-->
+        </OnPlatform>
+    </ContentPage.Padding>
+
+    <ContentPage.Content>
+
+        <AbsoluteLayout>
+
+            <RelativeLayout>
+
+
+                <ScrollView 
+                    RelativeLayout.XConstraint="0"
+                    RelativeLayout.YConstraint="0"
+                    RelativeLayout.WidthConstraint="{ConstraintExpression
+            Type=RelativeToParent,Property=Width,Factor=1,Constant=0}"
+                    RelativeLayout.HeightConstraint="{ConstraintExpression
+            Type=RelativeToParent,Property=Height,Factor=1,Constant=0}"
+                    >
+
+                    <StackLayout Padding="20,20,20,20"
+                    Spacing="20">
+
+
+                        
+
+
+
+                        <Label Text="Trending"
+                               Margin="0,31,0,11"            
+                               FontSize="17"
+                               TextColor="#990033" 
+                               HorizontalOptions="Center"/>
+                        <BoxView Color="#FFB2ADAE"
+                                 HeightRequest="2"
+                                 HorizontalOptions="Fill" />
+
+                            <CarouselView x:Name="RecommendationCarousalView" HeightRequest="217"           
+                             PeekAreaInsets="100">
+
+                                <CarouselView.ItemTemplate>
+                                    <DataTemplate>
+
+
+                                    <StackLayout>
+                                        <Frame Padding="5" CornerRadius="7"
+                                                 Margin="20" HorizontalOptions="Center"                                        
+                                   VerticalOptions="CenterAndExpand"  >
+                                            <ImageButton BorderColor="DarkGray"
+                                   Source="{Binding .}"
+                                   Padding="0,0,0,0"
+                                   Margin="0,0,0,0"                                  
+                                   Aspect="AspectFit"
+                                   HeightRequest="100"
+                                   WidthRequest="100"
+                                   HorizontalOptions="Center">
+
+                                            </ImageButton>
+                                        </Frame>
+                                    </StackLayout>
+
+                                </DataTemplate>
+                                </CarouselView.ItemTemplate>
+                            </CarouselView>
+                  
+
+                        <Label Text="Books You May Like"
+                               Margin="0,31,0,11"            
+                               FontSize="17"
+                               TextColor="#990033" 
+                               HorizontalOptions="Center"/>
+                        <BoxView Color="#FFB2ADAE"
+                                 HeightRequest="2"
+                                 HorizontalOptions="Fill" />
+
+
+                        <CarouselView x:Name="CarousalView" HeightRequest="237" 
+                                                     
+                      PeekAreaInsets="100">
+
+                            <CarouselView.ItemTemplate>
+                                <DataTemplate>
+
+                                  
+                                        <StackLayout>
+                                            <Frame Padding="5" CornerRadius="7"
+                                                 Margin="20" HorizontalOptions="Center"                                        
+                                   VerticalOptions="CenterAndExpand"  >
+                                                <ImageButton BorderColor="DarkGray"
+                                   Source="{Binding .}"
+                                   Padding="0,0,0,0"
+                                   Margin="0,0,0,0"                                  
+                                   Aspect="AspectFit"
+                                   HeightRequest="100"
+                                   WidthRequest="100"
+                                   HorizontalOptions="Center">
+
+                                                </ImageButton>
+                                            </Frame>
+                                        </StackLayout>
+                                </DataTemplate>
+                            </CarouselView.ItemTemplate>
+                        </CarouselView>
+
+                     
+
+                    </StackLayout>
+
+                </ScrollView>
+
+            </RelativeLayout>
+
+            <Button 
+                x:Name="camera_btn"
+                BackgroundColor="#990033" 
+                ImageSource="ic_action_camera_alt.png" 
+                Margin="0,0,11,0"
+                CornerRadius="50"                
+                AbsoluteLayout.LayoutBounds="1, 0.95, 87, 77"
+                AbsoluteLayout.LayoutFlags="PositionProportional"
+                Clicked="camera_btn_Clicked"
+                
+        />
+
+        </AbsoluteLayout>
+
+    </ContentPage.Content>
+
+
+</ContentPage>
+            <!--  
+    
+    
+    
+    <StackLayout>
+
+        <Label Text="Welcome To BookBee" TextColor="Black" FontSize="Large"  HorizontalTextAlignment="Center" />
+        <local:CarouselViewControl  Orientation="Horizontal" InterPageSpacing="10" Position="{Binding myPosition}"
+                                    ItemsSource="{Binding myItemsSource}" VerticalOptions="FillAndExpand"  
+                                    HorizontalOptions="FillAndExpand"  x:Name="MainCarousalView" >
+            <local:CarouselViewControl.ItemTemplate>
+                <DataTemplate>
+                    <ScrollView HeightRequest="3000">
+                        <StackLayout>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="auto"></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Image Source="{Binding ImageUrl}"  Grid.Row="0" />
+                                <Label Text="{Binding Title}" Grid.Row="0" TextColor="WhiteSmoke" HorizontalOptions="CenterAndExpand" VerticalOptions="End" BackgroundColor="Gray" Opacity="0.5" FontSize="Title"/>
+                            </Grid>
+
+
+                            <FlexLayout  Direction="Row" AlignItems="Start"  JustifyContent="SpaceEvenly">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="auto"/>
+                                        <RowDefinition Height="auto"/>
+                                        <RowDefinition Height="auto"/>
+                                        <RowDefinition Height="auto"/>
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="3*"/>
+                                        <ColumnDefinition Width="3*"/>
+                                        <ColumnDefinition Width="3*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Label Text="Favourites" FontSize="Medium"  Grid.Row="0" Grid.Column="0" />
+                                    <Image Source="https://images-na.ssl-images-amazon.com/images/I/51Yv54zzwTL._SX326_BO1,204,203,200_.jpg" Grid.Row="1" Grid.Column="0" HeightRequest="180" WidthRequest="180" />
+                                    <Image Source="https://images.squarespace-cdn.com/content/v1/563890dce4b0facc12851d8f/1518946622193-O7MD1082UC2NNF9M722O/ke17ZwdGBToddI8pDm48kO5xBXCkJZzb1tBk2XsMjLFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpx1HUiysH09eAKAy38YjqVHHZ3VUGZmajjXs2-NqfmcVokekF4rzJlVQl4wBrtHuA8/Lear+Front.jpg" Grid.Row="1" Grid.Column="1" HeightRequest="180" WidthRequest="180" />
+                                    <Image Source="https://i.huffpost.com/gen/1039678/original.jpg" Grid.Row="1" Grid.Column="2"  HeightRequest="180" WidthRequest="180" />
+                                    <Label Text="Trending" Grid.Row="2" Grid.Column="0"/>
+                                    <Image Source="https://www.creativindie.com/wp-content/uploads/2013/10/got_hc1.jpg" Grid.Row="3" Grid.Column="0" HeightRequest="180" WidthRequest="180" />
+                                    <Image Source="https://images-na.ssl-images-amazon.com/images/I/51Yv54zzwTL._SX326_BO1,204,203,200_.jpg" Grid.Row="3" Grid.Column="1" HeightRequest="180" WidthRequest="180" />
+                                    <Image Source="https://cdn6.f-cdn.com/contestentries/1397507/22020034/5b7fabfd102b5_thumb900.jpg" Grid.Row="3" Grid.Column="2"  HeightRequest="180" WidthRequest="180" />
+                                </Grid>
+                            </FlexLayout>
+
+
+
+
+
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="fb.png"></Image>
+                                <Image  Source="ins.jpg"></Image>
+                                <Image Source="twitter.jpg"></Image>
+                            </StackLayout>
+
+                        </StackLayout>
+                    </ScrollView>
+
+                </DataTemplate>
+            </local:CarouselViewControl.ItemTemplate>
+        </local:CarouselViewControl>
+
+        <Label Text="Trending"
+           Margin="0,31,0,11"            
+           FontSize="17"
+           TextColor="#990033" 
+           HorizontalOptions="Center"/>
+        <BoxView Color="#FFB2ADAE"
+             HeightRequest="2"
+             HorizontalOptions="Fill" />
+
+        <Frame Margin="0,15,0,127" BackgroundColor="Gray" Padding="0">
+            <CarouselView x:Name="RecommendationCarousalView"                   
+                      PeekAreaInsets="100">
+
+                <CarouselView.ItemTemplate>
+                    <DataTemplate>
+
+                        <StackLayout>
+                            <Frame HasShadow="True"
+                               BorderColor="DarkGray"
+                               CornerRadius="5"
+                               Margin="20"
+                               HorizontalOptions="Center"
+                               VerticalOptions="StartAndExpand">
+                                <Image Source="{Binding .}" 
+                                   Aspect="AspectFit"
+                                   HeightRequest="100"
+                                   WidthRequest="100"
+                                   HorizontalOptions="Center" />
+                            </Frame>
+                        </StackLayout>
+                    </DataTemplate>
+                </CarouselView.ItemTemplate>
+            </CarouselView>
+        </Frame>
+
+
+
+
+
+
+
+        <Button BackgroundColor="#990033" ImageSource="ic_action_camera_alt.png" Command="{Binding TakePhotoCommand}"
+                HeightRequest="71" WidthRequest="71" Margin="17,17,17,17"
+                CornerRadius="50" VerticalOptions="End" HorizontalOptions="End"></Button>
+
+
+
+
+
+
+           <RelativeLayout    HorizontalOptions="FillAndExpand" VerticalOptions="End" >
+             
+                <Button x:Name="camera" ImageSource="camera.png"  
+                    BorderColor="#e0e0d1"
+                    Padding="30" BackgroundColor="#f2f2f2"
+                    Command="{Binding TakePhotoCommand}"
+                    RelativeLayout.XConstraint="{ConstraintExpression 
+            Type=RelativeToParent,Property=Width,Factor=.0000,Constant=0}"
+            RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,
+            Property=Width,Factor=.3333,Constant=0}"/>
+                <Button x:Name="upload" ImageSource="img.png"   
+                    BorderWidth="1" BackgroundColor="#f2f2f2"
+                    BorderColor="#e0e0d1"
+                    Command="{Binding PickPhotoCommand}"
+                    Padding="30" RelativeLayout.XConstraint="{ConstraintExpression
+            Type=RelativeToParent,Property=Width,Factor=.3333,Constant=0}"
+            RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,
+            Property=Width,Factor=.3333,Constant=0}"/>
+                <Button x:Name="search" ImageSource="ic_action_search.png" 
+                    BorderWidth="1"
+                    BorderColor="#e0e0d1"
+                    Padding="30" BackgroundColor="#f2f2f2" Clicked="search_Clicked" RelativeLayout.XConstraint="{ConstraintExpression
+            Type=RelativeToParent,Property=Width,Factor=.6666,Constant=0}"
+            RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,
+            Property=Width,Factor=.3333,Constant=0}"/>
+
+            </RelativeLayout>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <StackLayout Orientation="Horizontal"
+                     HorizontalOptions="Center">
+
+                <controls:EnumPicker x:Name="snapPointsTypeEnumPicker"
+                                 EnumType="{x:Type SnapPointsType}"
+                                 SelectedIndex="2"
+                                 SelectedIndexChanged="snapPointsTypeEnumPicker_SelectedIndexChanged" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal"
+                     HorizontalOptions="Center">
+
+                <controls:EnumPicker x:Name="snapPointsAlignmentEnumPicker"
+                                 EnumType="{x:Type SnapPointsAlignment}"
+                                 SelectedIndex="1"
+                                 SelectedIndexChanged="snapPointsAlignmentEnumPicker_SelectedIndexChanged" />
+            </StackLayout>
+        
+    
+      <Label Text="Trending"
+           Margin="0,31,0,11"            
+           FontSize="17"
+           TextColor="#990033" 
+           HorizontalOptions="Center"/>
+        <BoxView Color="#FFB2ADAE"
+             HeightRequest="2"
+             HorizontalOptions="Fill" />
+       
+        <Frame Margin="0,15,0,127" BackgroundColor="Gray" Padding="0">
+            <CarouselView x:Name="MainCarousalView"                   
+                      PeekAreaInsets="100">
+
+                <CarouselView.ItemTemplate>
+                    <DataTemplate>
+
+                        <StackLayout>
+                            <Frame HasShadow="True"
+                               BorderColor="DarkGray"
+                               CornerRadius="5"
+                               Margin="20"
+                               HorizontalOptions="Center"
+                               VerticalOptions="StartAndExpand">
+                                <Image Source="{Binding .}" 
+                                   Aspect="AspectFit"
+                                   HeightRequest="100"
+                                   WidthRequest="100"
+                                   HorizontalOptions="Center" />
+                            </Frame>
+                        </StackLayout>
+                    </DataTemplate>
+                </CarouselView.ItemTemplate>
+            </CarouselView>
+        </Frame>
+
+
+
+        <Label Text="Trending"
+           Margin="0,31,0,11"            
+           FontSize="17"
+           TextColor="#990033" 
+           HorizontalOptions="Center"/>
+        <BoxView Color="#FFB2ADAE"
+             HeightRequest="2"
+             HorizontalOptions="Fill" />
+
+        <Frame Margin="0,15,0,127" BackgroundColor="Aqua" Padding="0">
+            <CarouselView x:Name="RecommendationCarousalView"                   
+                      PeekAreaInsets="100">
+
+                <CarouselView.ItemTemplate>
+                    <DataTemplate>
+
+                        <StackLayout>
+                            <Frame HasShadow="True"
+                               BorderColor="DarkGray"
+                               CornerRadius="5"
+                               Margin="20"
+                               HorizontalOptions="Center"
+                               VerticalOptions="StartAndExpand">
+                                <Image Source="{Binding .}" 
+                                   Aspect="AspectFit"
+                                   HeightRequest="100"
+                                   WidthRequest="100"
+                                   HorizontalOptions="Center" />
+                            </Frame>
+                        </StackLayout>
+                    </DataTemplate>
+                </CarouselView.ItemTemplate>
+            </CarouselView>
+        </Frame>
+
+
+
+
+    
+        
+      
+-->
+
+
+
+
+
+
+<!-- <Label Text="Welcome To BookBee" TextColor="Black" FontSize="Large"  HorizontalTextAlignment="Center" />
+        <local:CarouselViewControl  Orientation="Horizontal" InterPageSpacing="10" Position="{Binding myPosition}" ItemsSource="{Binding myItemsSource}" VerticalOptions="FillAndExpand"  HorizontalOptions="FillAndExpand"  x:Name="MainCarousalView" >
+            <local:CarouselViewControl.ItemTemplate>
+                <DataTemplate>
+                    <ScrollView HeightRequest="3000">
+                        <StackLayout>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="auto"></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Image Source="{Binding ImageUrl}"  Grid.Row="0" />
+                                <Label Text="{Binding Title}" Grid.Row="0" TextColor="WhiteSmoke" HorizontalOptions="CenterAndExpand" VerticalOptions="End" BackgroundColor="Gray" Opacity="0.5" FontSize="Title"/>
+                            </Grid>
+                          
+
+                            <FlexLayout  Direction="Row" AlignItems="Start"  JustifyContent="SpaceEvenly">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="auto"/>
+                                        <RowDefinition Height="auto"/>
+                                        <RowDefinition Height="auto"/>
+                                        <RowDefinition Height="auto"/>
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="3*"/>
+                                        <ColumnDefinition Width="3*"/>
+                                        <ColumnDefinition Width="3*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Label Text="Favourites" FontSize="Medium"  Grid.Row="0" Grid.Column="0" />
+                                    <Image Source="https://images-na.ssl-images-amazon.com/images/I/51Yv54zzwTL._SX326_BO1,204,203,200_.jpg" Grid.Row="1" Grid.Column="0" HeightRequest="180" WidthRequest="180" />
+                                    <Image Source="https://images.squarespace-cdn.com/content/v1/563890dce4b0facc12851d8f/1518946622193-O7MD1082UC2NNF9M722O/ke17ZwdGBToddI8pDm48kO5xBXCkJZzb1tBk2XsMjLFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpx1HUiysH09eAKAy38YjqVHHZ3VUGZmajjXs2-NqfmcVokekF4rzJlVQl4wBrtHuA8/Lear+Front.jpg" Grid.Row="1" Grid.Column="1" HeightRequest="180" WidthRequest="180" />
+                                    <Image Source="https://i.huffpost.com/gen/1039678/original.jpg" Grid.Row="1" Grid.Column="2"  HeightRequest="180" WidthRequest="180" />
+                                    <Label Text="Trending" Grid.Row="2" Grid.Column="0"/>
+                                    <Image Source="https://www.creativindie.com/wp-content/uploads/2013/10/got_hc1.jpg" Grid.Row="3" Grid.Column="0" HeightRequest="180" WidthRequest="180" />
+                                    <Image Source="https://images-na.ssl-images-amazon.com/images/I/51Yv54zzwTL._SX326_BO1,204,203,200_.jpg" Grid.Row="3" Grid.Column="1" HeightRequest="180" WidthRequest="180" />
+                                    <Image Source="https://cdn6.f-cdn.com/contestentries/1397507/22020034/5b7fabfd102b5_thumb900.jpg" Grid.Row="3" Grid.Column="2"  HeightRequest="180" WidthRequest="180" />
+                                </Grid>
+                            </FlexLayout>
+
+
+
+                        
+
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="fb.png"></Image>
+                                <Image  Source="ins.jpg"></Image>
+                                <Image Source="twitter.jpg"></Image>
+                            </StackLayout>
+
+                        </StackLayout>
+                    </ScrollView>
+
+                </DataTemplate>
+            </local:CarouselViewControl.ItemTemplate>
+        </local:CarouselViewControl>
+        <IndicatorView
+                        IndicatorColor="LightGray"
+                   SelectedIndicatorColor="DarkGray"
+                   HorizontalOptions="Center">
+
+        </IndicatorView>
+
+
+       <StackLayout  Margin="70 40 390 2" Padding="-60 -70 -70 -70">
+        <Button Text="WELCOME TO BOOKBEE!" FontSize="Large" FontAttributes="Italic" 
+                TextColor="BlueViolet" ImageSource="B4.jpg" FlexLayout.AlignSelf="Start" HorizontalOptions="FillAndExpand"  HeightRequest="0.5" WidthRequest="0.5"
+                Padding="1" 
+                BackgroundColor="Transparent" FontFamily="Calibri"></Button>
+        </StackLayout> -->
+
+

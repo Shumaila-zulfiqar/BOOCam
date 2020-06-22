@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="bookbee.Views.Help"   Title="Help">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="20">
+                <Label Text="FAQ" TextColor="#990033" FontSize="Large" HorizontalTextAlignment="Center"/>
+                <Label Text="Q: What is BOOCam?" TextColor="#990033" FontSize="Subtitle" />
+                <Label FontSize="Subtitle" Text="A: This is a Book Review and Recommendation Application that will provide you with Book reviews,ratings and other details along with relevant suggestions on your Searched Books"  
+                   TextColor="#FF626161"/>
+                <Label Text="Q: How It Works?" FontSize="Subtitle" TextColor="#990033"/>
+                <Label Text="The Application extracts text from the book cover image you upload or the book title you enter in search bar, and then calls Goodreads API in order to fetch Book details." 
+                   FontSize="Subtitle" TextColor="#FF626161"/>
+                <Label Text="Q: How To Use It?" FontSize="Subtitle"  TextColor="#990033"/>
+                <Label Text="A: You can take a picture by clicking on the Camera Button Or upload an image by Upload Button Or You can simply Search it by typing in the SearchBar. " 
+                   FontSize="Subtitle" TextColor="#FF626161"/>
+                <Label Text="Q: How Do I Get Recommendations?" FontSize="Subtitle"  TextColor="#990033"/>
+                <Label Text="A: The application provides you with recommendations on basis of your Search History and Books In Your Shelf. " 
+                   FontSize="Subtitle" TextColor="#FF626161"/>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

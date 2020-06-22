@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="bookbee.Views.Welcome"
+             NavigationPage.HasNavigationBar="false"
+            >
+   
+    <ContentPage.Content>
+
+
+        <StackLayout BackgroundColor="#f2f2f2">
+
+            <Label Text="Welcome to"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                Margin="0,21,0,0"
+                FontSize="25"
+                TextColor="#990033"/>
+            
+            <Label Text="BOOCam"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+              
+                FontSize="47"
+                TextColor="#990033"/>
+
+            <Label Text="Book Reviews And Recommendations"
+                HorizontalOptions="CenterAndExpand"
+                Margin="0,0,0,33"               
+                FontSize="Medium"
+                TextColor="#990033"/>
+
+        
+
+
+            <Image Source="lib.png" HeightRequest="167" WidthRequest="167" Margin="0,0,0,0" BackgroundColor="Transparent"></Image>
+
+
+
+            <Button x:Name="GetStartedBtn" Text="Create Account" Clicked="GetStartedBtn_Clicked" BackgroundColor="#990033" TextColor="White"
+                    VerticalOptions="CenterAndExpand" Margin="90,10,90,10" CornerRadius="5"></Button>
+
+
+            <Label Text="Already have an Account?"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                
+                TextDecorations="Underline"
+                FontSize="Small"
+                TextColor="#990033"/>
+
+            <Button x:Name="LoginBtn" Text="Login" Clicked="LoginBtn_Clicked"  BackgroundColor="#990033" TextColor="White"
+                    VerticalOptions="CenterAndExpand" Margin="90,0,90,30" CornerRadius="5"></Button>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

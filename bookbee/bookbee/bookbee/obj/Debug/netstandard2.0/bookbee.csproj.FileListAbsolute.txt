@@ -1,0 +1,196 @@
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.deps.json
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.pdb
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfoInputs.cache
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfo.cs
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.pdb
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Home.xaml.g.cs
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\MyBooks.xaml.g.cs
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Test2.xaml.g.cs
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Test3.xaml.g.cs
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\PopluarBooks.xaml.g.cs
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Contact.xaml.g.cs
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Recom.xaml.g.cs
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Scanning.xaml.g.cs
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Search.xaml.g.cs
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.csprojAssemblyReference.cache
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.csprojAssemblyReference.cache
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.pdb
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Contact.xaml.g.cs
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Home.xaml.g.cs
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\MyBooks.xaml.g.cs
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\PopluarBooks.xaml.g.cs
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Search.xaml.g.cs
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Test2.xaml.g.cs
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Test3.xaml.g.cs
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfoInputs.cache
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfo.cs
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.deps.json
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.pdb
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\camera.xaml.g.cs
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\upload.xaml.g.cs
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\camera.xaml.g.cs
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Contact.xaml.g.cs
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Home.xaml.g.cs
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\MyBooks.xaml.g.cs
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\PopluarBooks.xaml.g.cs
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Search.xaml.g.cs
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Test2.xaml.g.cs
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Test3.xaml.g.cs
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\upload.xaml.g.cs
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfoInputs.cache
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfo.cs
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.pdb
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.deps.json
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.pdb
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.csprojAssemblyReference.cache
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\camera.xaml.g.cs
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Contact.xaml.g.cs
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Home.xaml.g.cs
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\login.xaml.g.cs
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\MyBooks.xaml.g.cs
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\PopluarBooks.xaml.g.cs
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Search.xaml.g.cs
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Test2.xaml.g.cs
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Test3.xaml.g.cs
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\upload.xaml.g.cs
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfoInputs.cache
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfo.cs
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.deps.json
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.dll
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.pdb
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.dll
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.pdb
+C:\Users\ALI\source\repos\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.csprojAssemblyReference.cache
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\camera.xaml.g.cs
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Contact.xaml.g.cs
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Home.xaml.g.cs
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\login.xaml.g.cs
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\MyBooks.xaml.g.cs
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\PopluarBooks.xaml.g.cs
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Search.xaml.g.cs
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\upload.xaml.g.cs
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfoInputs.cache
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfo.cs
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.deps.json
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\About.xaml.g.cs
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Help.xaml.g.cs
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.csprojAssemblyReference.cache
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.deps.json
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.pdb
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.csprojAssemblyReference.cache
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Search.xaml.g.cs
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfoInputs.cache
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfo.cs
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.pdb
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\About.xaml.g.cs
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Contact.xaml.g.cs
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Help.xaml.g.cs
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\login.xaml.g.cs
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Profile.xaml.g.cs
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\upload.xaml.g.cs
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\MyBooks.xaml.g.cs
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.csprojAssemblyReference.cache
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Search.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\About.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Contact.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Help.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\login.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\MyBooks.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Profile.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfoInputs.cache
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfo.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.pdb
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.deps.json
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.pdb
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\History.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Search.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Welcome.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Signup.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Log.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\HeaderContentView.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\MyAccount.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\SearchBook.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\EditPopup.xaml.g.cs
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\EditPasswordPopup.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.deps.json
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\bin\Debug\netstandard2.0\bookbee.pdb
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Search.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\About.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Contact.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\EditPasswordPopup.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\EditPopup.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\HeaderContentView.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Help.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\History.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Log.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\login.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\MyAccount.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\MyBooks.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Profile.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Search.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\SearchBook.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Signup.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\Views\Welcome.xaml.g.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.csproj.CoreCompileInputs.cache
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfoInputs.cache
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.AssemblyInfo.cs
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\ref\bookbee.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee\obj\Debug\netstandard2.0\bookbee.pdb

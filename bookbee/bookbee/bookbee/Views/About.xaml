@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="bookbee.Views.About"
+             Title="About Us"
+            BackgroundImageSource="books.jpg"
+        >
+
+    <ContentPage.Content>
+
+        <StackLayout Padding="77"  >
+            <Label Text="About Us" Margin="17" FontSize="Title" HorizontalTextAlignment="Center" />
+            <Label    
+                TextColor="#990033"  FontSize="Subtitle" HorizontalTextAlignment="Center"
+                Text="Just a few months ago we became facinated by the  idea of creating something that facilitate Book Lovers to search and explore books in less time."/>
+            <Label
+                  
+                TextColor="#990033"  FontSize="Subtitle" HorizontalTextAlignment="Center"
+                Text=" We decided to make an app that can perform visual search saving user the trouble of typing in long book titles."></Label>
+       
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

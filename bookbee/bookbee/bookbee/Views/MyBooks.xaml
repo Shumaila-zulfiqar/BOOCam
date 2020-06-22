@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:CarouselView.FormsPlugin.Abstractions;assembly=CarouselView.FormsPlugin.Abstractions"
+             xmlns:controls="clr-namespace:bookbee.Controls"
+          
+            Title="My Library"
+             mc:Ignorable="d"
+             x:Class="bookbee.Views.MyBooks">
+
+<!--
+    <StackLayout Margin="20">
+        <StackLayout Orientation="Horizontal"
+                     HorizontalOptions="Center">
+          
+            <controls:EnumPicker x:Name="snapPointsTypeEnumPicker"
+                                 EnumType="{x:Type SnapPointsType}"
+                                 SelectedIndex="2"
+                                 SelectedIndexChanged="snapPointsTypeEnumPicker_SelectedIndexChanged" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal"
+                     HorizontalOptions="Center">
+           
+            <controls:EnumPicker x:Name="snapPointsAlignmentEnumPicker"
+                                 EnumType="{x:Type SnapPointsAlignment}"
+                                 SelectedIndex="1"
+                                 SelectedIndexChanged="snapPointsAlignmentEnumPicker_SelectedIndexChanged" />
+        </StackLayout>-->
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <!--   <OnPlatform.iOS >0,20,0,0</OnPlatform.iOS>-->
+        </OnPlatform>
+    </ContentPage.Padding>
+
+    <ContentPage.Content>
+
+        <AbsoluteLayout>
+
+            <RelativeLayout>
+
+
+                <ScrollView 
+                    RelativeLayout.XConstraint="0"
+                    RelativeLayout.YConstraint="0"
+                    RelativeLayout.WidthConstraint="{ConstraintExpression
+            Type=RelativeToParent,Property=Width,Factor=1,Constant=0}"
+                    RelativeLayout.HeightConstraint="{ConstraintExpression
+            Type=RelativeToParent,Property=Height,Factor=1,Constant=0}"
+                    >
+
+                    <StackLayout Padding="20,20,20,20"
+                    Spacing="21">
+
+
+                        
+
+
+                        <Label Text="Your Book Shelf"
+                               Margin="0,31,0,11"            
+                               FontSize="17"
+                               TextColor="#990033" 
+                               HorizontalOptions="Center"/>
+                        <BoxView Color="#FFB2ADAE"
+                                 HeightRequest="2"
+                                 HorizontalOptions="Fill" />
+
+                        <CarouselView x:Name="ShelfcarouselView" HeightRequest="217"           
+                             PeekAreaInsets="100">
+
+                            <CarouselView.ItemTemplate>
+                                <DataTemplate>
+                                    
+
+                                  
+                                        <StackLayout>
+                                            <Frame Padding="5" CornerRadius="7"
+                                                 Margin="20" HorizontalOptions="Center"                                        
+                                   VerticalOptions="CenterAndExpand"  >
+                                                <ImageButton BorderColor="DarkGray"
+                                   Source="{Binding .}"
+                                   Padding="0,0,0,0"
+                                   Margin="0,0,0,0"                                  
+                                   Aspect="AspectFit"
+                                   HeightRequest="100"
+                                   WidthRequest="100"
+                                   HorizontalOptions="Center">
+
+                                                </ImageButton>
+                                            </Frame>
+                                        </StackLayout>
+                              
+                                </DataTemplate>
+                            </CarouselView.ItemTemplate>
+                        </CarouselView>
+
+
+
+
+                        <BoxView Color="#FFB2ADAE"
+                                 HeightRequest="2"
+                                 HorizontalOptions="Fill" />
+
+
+                        <Label Text="See All"
+                               Margin="0,31,0,11"     
+                               TextDecorations="Underline"
+                               
+                               FontSize="15"
+                               TextColor="#990033" 
+                               HorizontalOptions="Center"/>
+
+                        <ListView x:Name="BookList" RowHeight="93" SeparatorColor="#990033">
+                            <ListView.ItemTemplate>
+                                <DataTemplate >
+
+                                    <ImageCell ImageSource="{Binding bookcoverurl}" Text="{Binding bookdetail}" TextColor="#990033" ></ImageCell>
+                                  <!--  <ViewCell>
+
+
+                                        <StackLayout VerticalOptions="FillAndExpand"
+                             Orientation="Horizontal"
+                             Padding="20,10,0,10"
+                             Spacing="31"
+                                                     BackgroundColor="Accent">
+
+                                            <Image Source="{Binding bookcoverurl}"
+                         WidthRequest="100"
+                         HeightRequest="100"
+                        />
+
+                                            <Label Text="{Binding bookdetail}"
+                         FontSize="15"                 
+                        
+                         VerticalOptions="Center"
+                         TextColor="#990033">
+
+
+                                            </Label>
+
+
+                                        </StackLayout>
+                                    </ViewCell>
+-->
+                                                                      
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+
+                        
+                        
+                        
+                        
+                    </StackLayout>
+
+                </ScrollView>
+
+            </RelativeLayout>
+
+            <Button 
+                BackgroundColor="#990033" 
+                x:Name="camera_btn"
+                Clicked="camera_btn_Clicked"
+                ImageSource="ic_action_camera_alt.png" 
+                Margin="0,0,11,0"
+                CornerRadius="50" 
+                AbsoluteLayout.LayoutBounds="1, 0.95, 87, 77"
+                AbsoluteLayout.LayoutFlags="PositionProportional"
+        />
+
+        </AbsoluteLayout>
+
+    </ContentPage.Content>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--
+            <Label Text="Your Shelf" TextColor="Black" FontSize="Large"  HorizontalTextAlignment="Center" />
+        <local:CarouselViewControl  Orientation="Horizontal" 
+                                    InterPageSpacing="10" 
+                                    Position="{Binding myPosition}"
+                                    x:Name="slider"
+                                    
+                                    VerticalOptions="FillAndExpand"
+                                    HorizontalOptions="FillAndExpand"   >
+            <local:CarouselViewControl.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Frame HasShadow="True"
+                               BorderColor="DarkGray"
+                               CornerRadius="5"
+                               Margin="20"
+                               HorizontalOptions="Center"
+                               VerticalOptions="StartAndExpand">
+                            <Image Source="{Binding .}" 
+                                   Aspect="AspectFit"
+                                   HeightRequest="100"
+                                   WidthRequest="100"
+                                   HorizontalOptions="Center" />
+                        </Frame>
+                    </StackLayout>
+
+                </DataTemplate>
+            </local:CarouselViewControl.ItemTemplate>
+        </local:CarouselViewControl>
+
+    </StackLayout>
+
+-->
+
+</ContentPage>

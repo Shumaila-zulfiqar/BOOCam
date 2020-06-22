@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="bookbee.Views.MyAccount"
+             Title="My Account">
+    <ContentPage.Content>
+
+        <ScrollView 
+                    RelativeLayout.XConstraint="0"
+                    RelativeLayout.YConstraint="0"
+                    RelativeLayout.WidthConstraint="{ConstraintExpression
+            Type=RelativeToParent,Property=Width,Factor=1,Constant=0}"
+                    RelativeLayout.HeightConstraint="{ConstraintExpression
+            Type=RelativeToParent,Property=Height,Factor=1,Constant=0}">
+
+            <StackLayout Margin="13,0,13,0" BackgroundColor="#f2f2f2" Padding="30">
+
+
+                <Image Source="ic_action_account_circle.png"
+                       HeightRequest="97" WidthRequest="97" Margin="0,17,0,10" BackgroundColor="Transparent"></Image>
+
+                <Label x:Name="username" TextColor="#990033" FontSize="27" HorizontalTextAlignment="Center" ></Label>
+                <Label x:Name="email" TextColor="#FF626161" FontSize="15" HorizontalTextAlignment="Center" ></Label>
+
+                <BoxView Color="#FFB2ADAE"
+                         Margin="21,21,21,21"
+                                 HeightRequest="2"
+                                 HorizontalOptions="Fill" />
+
+
+                <StackLayout Margin="0,17,0,7">
+                    <ImageButton Source="ic_action_edit.png" HorizontalOptions="End"                            
+                              WidthRequest="21" BackgroundColor="Transparent"
+                               x:Name="NameEditBtn"  Clicked="NameEditBtn_Clicked"
+                              HeightRequest="21"></ImageButton>
+                    <Label Text="Name" TextColor="#990033" FontSize="15" Margin="3" HorizontalOptions="Start"></Label>
+                    <Label x:Name="fname" TextColor="#FF626161" FontSize="15" HorizontalOptions="Center"></Label>
+                </StackLayout>
+
+
+                <StackLayout Margin="0,7,0,7">
+                    <ImageButton Source="ic_action_edit.png" HorizontalOptions="End"
+                              WidthRequest="21" BackgroundColor="Transparent"
+                              x:Name="PasswordEditBtn" Clicked="PasswordEditBtn_Clicked" 
+                              HeightRequest="21"></ImageButton>
+                    <Label Text="Password" TextColor="#990033" FontSize="15" Margin="3" HorizontalOptions="Start"></Label>
+                    <Label x:Name="pass" TextColor="#FF626161" FontSize="15" HorizontalOptions="Center"></Label>
+                </StackLayout>
+              
+
+
+              
+
+            </StackLayout>
+
+        </ScrollView>
+
+
+    </ContentPage.Content>
+</ContentPage>
+
+<!-- <ListView x:Name="UserInfo" RowHeight="93" SeparatorColor="#990033" HorizontalScrollBarVisibility="Never" 
+                          VerticalScrollBarVisibility="Never">
+                    <ListView.ItemTemplate>
+                        <DataTemplate >
+
+                        
+
+
+                            <ViewCell>
+
+                                <StackLayout VerticalOptions="FillAndExpand"
+                             Orientation="Horizontal"
+                             Padding="20,10,0,10"
+                             Spacing="20">
+                                   
+
+                                    <Label    
+                                              Text="First Name"
+                                              FontSize="15"
+                                              VerticalOptions="Center"
+                                              HorizontalOptions="Start"
+                                              TextColor="#990033"/>
+                                    <Label    x:Name="fname"
+                                              
+                                              FontSize="11"
+                                              VerticalOptions="Center"
+                                              HorizontalOptions="Center"
+                                              TextColor=" #FF626161"/>
+                                    <ImageButton Source="ic_action_edit.png"                                              
+                                             WidthRequest="21"
+                                             HeightRequest="21"
+                                             Clicked="ImageButton_Clicked"         
+                                             HorizontalOptions="EndAndExpand"
+                                             VerticalOptions="Center" />
+
+                                    <Label Text="Password"
+                                              FontSize="15"
+                                              VerticalOptions="Center"
+                                              HorizontalOptions="Start"
+                                              TextColor="#990033"/>
+                                    <Label Text="**********"
+                                              FontSize="11"
+                                              VerticalOptions="Center"
+                                              HorizontalOptions="Center"
+                                              TextColor=" #FF626161"/>
+                                    <ImageButton Source="ic_action_edit.png"                                              
+                                             WidthRequest="21"
+                                             HeightRequest="21"
+                                             Clicked="ImageButton_Clicked"         
+                                             HorizontalOptions="EndAndExpand"
+                                             VerticalOptions="Center" />
+                                    
+                                    
+                                </StackLayout>
+
+
+                            </ViewCell>
+
+                           
+
+
+
+
+
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+-->
+
+
+      

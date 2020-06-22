@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:loc="clr-namespace:bookbee"
+              NavigationPage.HasNavigationBar="false"
+             
+             mc:Ignorable="d"
+             x:Class="bookbee.Views.MainPage"
+                  MasterBehavior="Split"
+                  >
+    <MasterDetailPage.ToolbarItems  >
+        <ToolbarItem x:Name="searchBtn" Icon="search1.png" Priority="0" Text="Search" Order="Primary" Clicked="searchBtn_Clicked" />
+  
+            
+       <!-- <ToolbarItem Icon="search.png" Text="About Us" Order="Secondary" />
+        <ToolbarItem Icon="search.png" Text="Rate Now"   Order="Secondary" />-->
+    </MasterDetailPage.ToolbarItems>
+    <MasterDetailPage.Master>
+        <ContentPage Title="Menu"
+                BackgroundColor="#e8e8e8">
+            <StackLayout Orientation="Vertical" >
+
+                <!-- This StackLayout you can use for other
+             data that you want to have in your menu drawer  
+            <StackLayout BackgroundColor="#e74c3c"
+                     HeightRequest="75">
+                <Label Text=""
+                 FontSize="15"
+                 VerticalOptions="CenterAndExpand"
+                 TextColor="White"
+                 HorizontalOptions="Center"/>
+            </StackLayout>-->
+
+                <ListView x:Name="navigationDrawerList"
+                  RowHeight="51"
+                  SeparatorVisibility="None"
+                 
+                  ItemSelected="OnMenuItemSelected">
+
+
+
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+
+
+                                <StackLayout VerticalOptions="FillAndExpand"
+                             Orientation="Horizontal"
+                             Padding="20,10,0,10"
+                             Spacing="31">
+
+                                    <Image Source="{Binding Icon}"
+                         WidthRequest="40"
+                         HeightRequest="40"
+                         VerticalOptions="Center" />
+
+                                    <Label Text="{Binding Title}"
+                                           
+                         FontSize="Default"
+                         VerticalOptions="Center"
+                         TextColor="#990033">
+                                       
+
+                                    </Label>
+
+
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+
+        </ContentPage>
+    </MasterDetailPage.Master>
+
+
+    <MasterDetailPage.Detail  >
+        <NavigationPage>
+        </NavigationPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>
+  

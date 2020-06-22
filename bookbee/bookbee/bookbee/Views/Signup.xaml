@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             NavigationPage.HasNavigationBar="false"
+             x:Class="bookbee.Views.Signup">
+    <ContentPage.Content>
+        <StackLayout Margin="13,0,13,0" BackgroundColor="#f2f2f2" Padding="30">
+            <Label Text="Signup"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                 Margin="0,23,0,10"
+                FontSize="35"
+                TextColor="#990033"/>
+
+            <Label Text="First Name:" TextColor="#990033" FontSize="Subtitle" ></Label>
+            <Entry x:Name="fnameEntry" FontSize="Subtitle"  Placeholder="Enter your First Name" VerticalOptions="Center" ></Entry>
+            <Label Text="Last Name:" TextColor="#990033" FontSize="Subtitle" ></Label>
+            <Entry x:Name="lnameEntry" FontSize="Subtitle"  Placeholder="Enter your Last Name" VerticalOptions="Center" ></Entry>
+            <Label Text="Email:" TextColor="#990033" FontSize="Subtitle"  ></Label>
+            <Entry x:Name="emailEntry" FontSize="Subtitle"  Placeholder="Enter your email" VerticalOptions="Center" ></Entry>
+            <Label Text="Password:" TextColor="#990033" FontSize="Subtitle" ></Label>
+            <Entry x:Name="passwordEntry" FontSize="Subtitle"  Placeholder="Enter your password" IsPassword="True" ></Entry>
+            <Label Text="Confirm Password:" TextColor="#990033" FontSize="Subtitle" ></Label>
+            <Entry x:Name="CpasswordEntry" FontSize="Subtitle"  Placeholder="Confirm your password" IsPassword="True" ></Entry>
+
+
+
+            <Button x:Name="SignBtn" Text="Signup" Clicked="SignBtn_Clicked" BackgroundColor="#990033" TextColor="White"
+                    VerticalOptions="CenterAndExpand" Margin="70,15,70,70" CornerRadius="5"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

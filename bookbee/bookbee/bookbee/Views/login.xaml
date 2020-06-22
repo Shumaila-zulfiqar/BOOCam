@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+            x:Class="bookbee.Views.login" BackgroundColor="LightGray">
+    <AbsoluteLayout >
+        <StackLayout AbsoluteLayout.LayoutBounds="1, 0.5, 1,0.5"    
+AbsoluteLayout.LayoutFlags="All"    
+HorizontalOptions="Center"    
+VerticalOptions="Center"    
+Padding="50" BackgroundColor="#990033">
+            <StackLayout Orientation="Horizontal" Margin="-50">
+                <Label Text="LogIn" FontSize="Large" FontFamily="Forte"    
+TextColor="White"></Label>
+                <Image Source="user.png" HeightRequest="100" WidthRequest="70"></Image>
+            </StackLayout>
+            <Label Text="Email:" TextColor="#0065b1" ></Label>
+            <Entry Placeholder="Enter your email" VerticalOptions="Center" ></Entry>
+            <Label Text="Password:" TextColor="#0065b1"></Label>
+            <Entry Placeholder="Enter your password" IsPassword="True"    
+VerticalOptions="Center"></Entry>
+            <StackLayout Orientation="Horizontal" Margin="-10" Padding="10">
+                <Button x:Name="Button" Text="Login" FontSize="Small" TextColor="White"    
+BackgroundColor="#f49600" HorizontalOptions="StartAndExpand"></Button>
+                <Label Text="OR" HorizontalOptions="Center"></Label>
+                <Button x:Name="signup" Text="SignUp" TextColor="White"    
+HorizontalOptions="EndAndExpand" FontSize="Small"    
+BackgroundColor="#f49600" Clicked="Signup_Clicked"></Button>
+            </StackLayout>
+            <!--  <Label Text="Forgotten your password?" TextColor="Azure"    
+FontSize="Small" FontFamily="bold"></Label> -->
+        </StackLayout>
+        <StackLayout AbsoluteLayout.LayoutBounds="0,1,1,60"    
+AbsoluteLayout.LayoutFlags="XProportional,YProportional,WidthProportional"    
+BackgroundColor="#60443b"    
+Orientation="Horizontal">
+            <Label Text="Follow Us On Social Media!" FontSize="Medium"    
+FontFamily="Forte" TextColor="AliceBlue"></Label>
+            <!--           <ImageButton Source="twtr.png" HeightRequest="20" WidthRequest="40"></ImageButton>
+            <ImageButton Source="gml.png" HeightRequest="20" WidthRequest="40"></ImageButton> -->
+            <Image Source="fb.png" HeightRequest="20" WidthRequest="40" ></Image>
+            <Image Source="insta.png" HeightRequest="20" WidthRequest="40" ></Image>
+            <Image Source="twitter.png" HeightRequest="20" WidthRequest="40"></Image>
+        </StackLayout>
+        <ContentView x:Name="popup"    
+AbsoluteLayout.LayoutBounds="1, 0.2, 1,1"    
+AbsoluteLayout.LayoutFlags="All"    
+HorizontalOptions="Center"    
+VerticalOptions="Center"    
+IsVisible="False"    
+Padding="50" BackgroundColor="#421814">
+            <StackLayout Margin="10,-40,10,-40">
+                <StackLayout Orientation="Horizontal" WidthRequest="100" Margin="30,-10,60,30"
+                             Padding="-20">
+                    <Label Text="SignUp" Margin="-69.5" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" FontSize="Large" FontFamily="Forte" TextColor="White"></Label>
+                    <Image Source="Signup2.png" HeightRequest="100" WidthRequest="200" ></Image>
+                </StackLayout>
+                <StackLayout Orientation="Vertical" Margin="-100">
+                    <Label Text="User Name" TextColor="#0065b1"  VerticalOptions="Center" Margin="50,10,-10,10" Padding="50" HorizontalTextAlignment="Start"></Label>
+                    <Entry Placeholder="Enter Your name" VerticalOptions="Center" Margin="90,-70,90,50"></Entry>
+                    <!--      <Label Text="Last Name" TextColor="#0065b1" Margin="30,-10,-60,-10" HorizontalOptions="Center"></Label> 
+                    <Entry Placeholder="Enter last name" VerticalOptions="Center"></Entry> -->
+                </StackLayout >
+                <Label Text="Email:" TextColor="#0065b1" Margin="10,70,10,10"></Label>
+                <Entry Placeholder="Enter your email" VerticalOptions="Center"></Entry>
+                <Label Text="Password:" TextColor="#0065b1"></Label>
+                <Entry Placeholder="Enter your password" IsPassword="True" VerticalOptions="Center"></Entry>
+                <!--   <Label Text="Confirm Password:" TextColor="#0065b1"></Label>
+                <Entry Placeholder="Confirm your password" IsPassword="True" VerticalOptions="Center"></Entry> -->
+                <StackLayout Orientation="Horizontal">
+                    <Button x:Name="Submit" Text="Submit" FontSize="Small"    
+TextColor="White" BackgroundColor="#f49600"    HorizontalOptions="StartAndExpand"  Clicked="Submit_Clicked"></Button>
+                    <Label Text="OR" HorizontalOptions="Center"></Label>
+                    <Button x:Name="log" Text="Login" TextColor="White"    
+HorizontalOptions="EndAndExpand" FontSize="Small"    
+BackgroundColor="#f49600" Clicked="Log_Clicked"></Button>
+                </StackLayout>
+            </StackLayout>
+        </ContentView>
+    </AbsoluteLayout>
+</ContentPage> 

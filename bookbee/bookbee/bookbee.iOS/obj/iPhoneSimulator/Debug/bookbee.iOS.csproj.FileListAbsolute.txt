@@ -1,0 +1,591 @@
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.iOS.exe
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.iOS.pdb
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.pdb
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.csprojAssemblyReference.cache
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.csproj.CopyComplete
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.exe
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.pdb
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\BottomBar.XamarinForms.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.CarouselView.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\Users\Saqib\source\repos\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.iOS.exe
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.iOS.pdb
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\BottomBar.XamarinForms.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.pdb
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.csprojAssemblyReference.cache
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.csproj.CopyComplete
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.exe
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.pdb
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\Users\Umama\source\repos\New folder\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.iOS.exe
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.iOS.pdb
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\BottomBar.XamarinForms.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.dll
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.pdb
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.csprojAssemblyReference.cache
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.csproj.CopyComplete
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.exe
+C:\Users\Saqib\Desktop\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.iOS.exe
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.iOS.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.Core.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.Core.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.barcodes.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.forms.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.io.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.kernel.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.layout.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.pdfa.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.sign.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.styledxmlparser.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.svg.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\BouncyCastle.Crypto.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Diagnostics.Process.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Globalization.Extensions.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Net.Requests.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\BottomBar.XamarinForms.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.dll
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.csprojAssemblyReference.cache
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.csproj.CopyComplete
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.exe
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.pdb
+C:\Users\Saqib\Downloads\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.iOS.exe
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.iOS.pdb
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.pdb
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.Core.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.Core.pdb
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.barcodes.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.forms.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.io.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.kernel.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.layout.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.pdfa.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.sign.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.styledxmlparser.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.svg.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.pdb
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\BouncyCastle.Crypto.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Diagnostics.Process.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Globalization.Extensions.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Net.Requests.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\BottomBar.XamarinForms.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.pdb
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.dll
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.pdb
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.csprojAssemblyReference.cache
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.csproj.CopyComplete
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.exe
+C:\Users\Umama\source\repos\new GUI\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.pdb
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.iOS.exe
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.iOS.pdb
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.pdb
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.Core.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.Core.pdb
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.barcodes.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.forms.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.io.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.kernel.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.layout.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.pdfa.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.sign.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.styledxmlparser.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.svg.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.pdb
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\BouncyCastle.Crypto.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Diagnostics.Process.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Globalization.Extensions.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Net.Requests.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\BottomBar.XamarinForms.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.pdb
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.dll
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.pdb
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.csprojAssemblyReference.cache
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.csproj.CopyComplete
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.exe
+C:\Users\Umama\source\repos\BookApp\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.pdb
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.iOS.exe
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.iOS.pdb
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.pdb
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.Core.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Common.Logging.Core.pdb
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.barcodes.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.forms.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.io.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.kernel.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.layout.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.pdfa.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.sign.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.styledxmlparser.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\itext.svg.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.pdb
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\BouncyCastle.Crypto.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Diagnostics.Process.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Globalization.Extensions.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Net.Requests.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\BottomBar.XamarinForms.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.pdb
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\bookbee.pdb
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.csprojAssemblyReference.cache
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.csproj.CopyComplete
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.exe
+C:\Users\Saqib\Downloads\umamah\bookbee\bookbee\bookbee.iOS\obj\iPhoneSimulator\Debug\bookbee.iOS.pdb

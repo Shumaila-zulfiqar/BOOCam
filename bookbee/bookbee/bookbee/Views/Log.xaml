@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="bookbee.Views.Log"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Content>
+        <StackLayout Margin="13,0,13,0" BackgroundColor="#f2f2f2" Padding="30">
+            <Label Text="Login"
+                Margin="0,27,0,0"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+               
+                FontSize="35"
+                TextColor="#990033"/>
+
+            <Label Text="Email:" TextColor="#990033" FontSize="Subtitle"></Label>
+            <Entry x:Name="emailEntry" Placeholder="Enter your email" VerticalOptions="Center" FontSize="Subtitle"></Entry>
+            <Label Text="Password:" TextColor="#990033" FontSize="Subtitle"></Label>
+            <Entry x:Name="passwordEntry" Placeholder="Enter your password" IsPassword="True" FontSize="Subtitle"></Entry>   
+            
+
+
+            <Button x:Name="LogBtn" Text="Login" Clicked="LogBtn_Clicked" BackgroundColor="#990033" TextColor="White"
+                    VerticalOptions="CenterAndExpand" Margin="70,30,70,30" CornerRadius="5"></Button>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
